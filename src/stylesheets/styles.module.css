@@ -1,0 +1,4 @@
+
+.hero_text{
+    font-size: clamp(1rem, 0.6964rem + 2.4286vw, 3.125rem);
+}
